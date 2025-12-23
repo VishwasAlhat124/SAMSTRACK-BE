@@ -1,4 +1,4 @@
-#####📌 SamsTrack – Student Attendance Management System
+📌 SamsTrack – Student Attendance Management System
 
 SamsTrack is a Spring Boot–based REST API designed to automate and streamline student attendance management in educational institutions. The system enables faculty members to record, view, and manage attendance for subjects efficiently, reducing paperwork and improving data accuracy.
 
